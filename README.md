@@ -1,4 +1,4 @@
-# Prometheus Installation Script for Ubuntu 16.04 and 18.04 LTS
+# Prometheus Installation Script for Debian/Ubuntu
 
 **Important:** This is a work in progress.
 
